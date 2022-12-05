@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView3" type="id" />
+    <item name="back_btn" type="id" />
+    <item name="memo_title_edit" type="id" />
+    <item name="textView4" type="id" />
+    <item name="memo_content_edit" type="id" />
+    <item name="save_btn" type="id" />
+    <item name="txtText" type="id" />
+    <item name="confirm_btn" type="id" />
+    <item name="cancel_btn" type="id" />
+    <item name="view_title" type="id" />
+    <item name="textView7" type="id" />
+    <item name="view_content" type="id" />
+    <item name="back_list_btn" type="id" />
+    <item name="re_btn" type="id" />
+    <item name="date_contain" type="id" />
+    <item name="title_contain" type="id" />
+    <item name="view_btn" type="id" />
+    <item name="delete_btn" type="id" />
+    <item name="logintext" type="id" />
+    <item name="editID" type="id" />
+    <item name="ediPassword" type="id" />
+    <item name="loginbutton" type="id" />
+    <item name="signin" type="id" />
+</resources>
